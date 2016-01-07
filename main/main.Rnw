@@ -1,0 +1,16 @@
+\documentclass[24]{book}
+
+\begin{document}
+
+This is in the main document
+
+\chapter{chapter 1}
+\graphicspath{{../chapters/chapter01/images/}}
+\Sexpr{knit_child('../chapters/chapter01/content.Rnw')}
+
+
+\chapter{chapter 2}
+\graphicspath{{../chapters/chapter02/images/}}
+\Sexpr{knit_child('../chapters/chapter02/content.Rnw')}
+
+\end{document}

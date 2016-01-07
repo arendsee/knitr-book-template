@@ -1,0 +1,5 @@
+\section{Random stuff (in chapter 1 section 1)}
+
+    hello, I have just entered the chapter 1 section 1, here is a little picture
+
+    \includegraphics[width=\textwidth]{img01.png}

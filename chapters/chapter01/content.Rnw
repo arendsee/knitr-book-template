@@ -1,0 +1,3 @@
+This is some introductory stuff writte in content.Rnw just before loading section01
+
+\Sexpr{knit_child('sections/section01.Rnw')}

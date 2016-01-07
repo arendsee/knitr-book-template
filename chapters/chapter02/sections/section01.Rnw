@@ -1,0 +1,5 @@
+\section{Random stuff}
+
+    hello
+
+    \includegraphics[width=\textwidth]{img01.png}
